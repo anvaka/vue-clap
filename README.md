@@ -17,7 +17,7 @@ If you need more advanced touch screen support, then use [vue-touch](https://git
   <a href='#' v-clap='handleClickOrTap'>Click me<a>
 
   <!-- you can also use .prevent modifier to call event.preventDefault() -->
-  <a href='#' v-clap.prevent='handleClickOrTap'>Click me and prvent default<a>
+  <a href='#' v-clap.prevent='handleClickOrTap'>Click me and prvent default</a>
 </div>
 </template>
 ```
