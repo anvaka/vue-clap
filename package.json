@@ -1,0 +1,24 @@
+{
+  "name": "vue-clap",
+  "version": "1.0.0",
+  "description": "vue.js directive for unified click and tap events handling ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anvaka/vue-clap.git"
+  },
+  "keywords": [
+    "vue",
+    "click",
+    "tap"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anvaka/vue-clap/issues"
+  },
+  "homepage": "https://github.com/anvaka/vue-clap#readme"
+}
