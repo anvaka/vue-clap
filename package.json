@@ -1,6 +1,6 @@
 {
   "name": "vue-clap",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "vue.js directive for unified click and tap events handling ",
   "main": "index.js",
   "scripts": {
